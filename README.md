@@ -5,77 +5,82 @@
 
 <h1 align="center">👋🏾 Hi, I’m Ariela</h1>
 <p align="center">
-💻 <strong>Software Engineer & Researcher</strong> · ⚛️ <strong>Exploring Quantum Software Engineering for Bioinformatics & Computational Biology</strong>  
-🌿 <strong>Focused on Women’s Health Equity</strong>
+💻 <strong>Women’s Health Data & Equity Technologist</strong> · 📊 <strong>Software Engineer & Research Translator</strong>  
+🌿 <strong>Building an independent Women’s Health Data Lab</strong>
 </p>
 
 ---
 
 ### 🧬 About Me  
-I build tools at the intersection of **software, health, and science** — emphasizing **accessibility, reproducibility, and ethical equity**.  
-My work explores how computing and open science can help advance **women’s reproductive, metabolic, and endocrine health**,  
-particularly for **Black, Hispanic, and Native women** who remain underrepresented in research.
 
-I’m currently documenting my **exploration of computational biology and quantum software engineering**  
-through a **self-directed curriculum** that spans:
+I run an independent **Women’s Health Data Lab** that uses **public datasets, reproducible analysis, and plain-language reporting** to make women’s health inequities visible.
 
-- 🧮 Math & Physics  
-- 💻 Computer Science & Python  
-- 🧫 Biology & Chemistry  
-- 🧠 Bioinformatics & Computational Biology  
-- ⚛️ Quantum Foundations & High-Performance Computing  
-- 📊 Health Data Ethics & Reproducible Research
+My work focuses on how **data, health systems, and structural bias** shape outcomes for women across:
+PCOS · endometriosis · pregnancy · postpartum mental health · menopause · metabolic health · and more.
 
----
+I specialize in:
+- turning messy health data into clear insight  
+- documenting methods and limitations transparently  
+- and translating research so women, advocates, and organizations can actually use it.
 
-### 🔬 Featured Work (COMING SOON)
-- 🧭 **[Public Health Cohort Explorer](#)** → accessible dashboard for cohort analysis with reproducible exports  
-- ⚙️ **[Lab Equipment Reservation Tracker](#)** → conflict-safe scheduling for shared lab instruments  
-- 🧪 **[Sample & Reagent Inventory System](#)** → lot-level tracking and audit logs for lab supplies  
-
-> *(More scientific software projects coming as I progress through my curriculum 🚀)*
+This is not medical care — it is **evidence, context, and clarity**.
 
 ---
 
-### 📖 What I’m Learning
-- 🧬 Computational biology & bioinformatics — Biopython, molecular & structural tools  
-- ⚛️ Quantum software development — Qiskit · Cirq · PennyLane  
-- 📊 Scientific computing — NumPy · SciPy · Matplotlib · Plotly  
-- 🖥️ HPC — Linux clusters · MPI · Dask  
-- ♻️ FAIR data principles · accessibility · open science ethics  
+### 🔬 What This Lab Does  
+
+The **Ariela in STEM — Women’s Health Data Lab** exists to:
+
+- analyze large public health datasets (CDC, NIH, etc.)
+- document disparities in women’s health
+- publish reproducible notebooks and charts
+- and share plain-language research through essays and video
+
+All work is exploratory, transparent, and ethically grounded.
 
 ---
 
-### 🌱 Research & Documentation
-I share my **Research Journey**, builds, and reflections across these platforms:
+### 🧠 How I Work  
+
+- 📊 Python · pandas · Jupyter  
+- 🗂 CDC, NIH, NHANES, NSFG, and other public datasets  
+- 🧾 Explicit assumptions and documented limitations  
+- 🔍 Equity-centered analysis  
+- ♻️ Reproducible, open research workflows  
+
+---
+
+### 🌱 Where I Publish  
 
 | 🌐 Platform | Purpose |
 |--------------|----------|
-| [**Portfolio & Research Hub**](https://arielainstem.com) | Projects · Lab Notes · Open Datasets *(coming soon)* |
-| [**LinkedIn**](https://linkedin.com/in/ariela-israel) | Professional reflections on science & equity |
-| [**Substack**](https://substack.com/@arielainstem) | Essays, Lab Notes, & Curriculum Logs |
-| [**YouTube**](https://www.youtube.com/@arielainstem) | Visual devlogs & “Code to Cell” series |
-| [**Instagram**](https://www.instagram.com/arielainstem) | Behind-the-scenes snapshots |
-| [**Threads**](https://www.threads.net/@arielainstem) | Thought snippets & reflections |
-| [**X (Twitter)**](https://twitter.com/arielainstem) | Real-time updates & open science discussions |
+| **Website** | Research hub · Lab notes · Public reports |
+| **Substack** | Essays · data stories · research releases |
+| **LinkedIn** | Professional writing on women’s health & data |
+| **YouTube** | Plain-language data explainers | coming soon!
+| **Instagram** | Charts, visuals, behind-the-scenes | coming soom!
+| **Threads** | Research notes & mini-threads | coing soon!
+| **GitHub** | This open lab: notebooks, charts, methods |
 
 ---
 
-### 💌 Let’s Connect
-📧 **Email:** [arielaisrael12@gmail.com](mailto:arielaisrael12@gmail.com)  
-💻 **GitHub:** [@arielainstem](https://github.com/arielainstem)  
-🔗 **Link-in-bio:** [arielainstem.com/links](https://arielainstem.com/links)
+### 💌 Let’s Connect  
+
+🌐 **Website:** https://arielainstem.com  
+🧪 **Substack:** Ariela in STEM — Women’s Health Data Lab  
+💼 **LinkedIn:** https://linkedin.com/in/ariela-israel  
+💻 **GitHub:** https://github.com/arielainstem  
 
 ---
 
 <p align="center">
-✨ <em>“Building open, ethical, and reproducible tools where software meets science — and equity leads the way.”</em> ✨  
+✨ <em>“Making women visible in the data — and making the data make sense.”</em> ✨  
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Women's%20Health%20Equity-8b5cf6?style=for-the-badge" alt="Women's Health Equity Badge"/>
-  <img src="https://img.shields.io/badge/Field-Quantum%20Computing%20·%20Bioinformatics-10b981?style=for-the-badge" alt="Quantum Bioinformatics Badge"/>
-  <img src="https://img.shields.io/badge/Approach-Open%20Science%20·%20Reproducibility-6366f1?style=for-the-badge" alt="Open Science Badge"/>
+  <img src="https://img.shields.io/badge/Focus-Women’s%20Health%20Equity-8b5cf6?style=for-the-badge" alt="Women's Health Equity Badge"/>
+  <img src="https://img.shields.io/badge/Method-Data%20·%20Research%20·%20Reproducibility-10b981?style=for-the-badge" alt="Data Research Badge"/>
+  <img src="https://img.shields.io/badge/Approach-Open%20Science%20·%20Clarity-6366f1?style=for-the-badge" alt="Open Science Badge"/>
 </p>
